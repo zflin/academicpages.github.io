@@ -8,8 +8,6 @@ date: 2017-04-21
 location: "College Station, Texas"
 ---
 
-# Background
-
 [SETCASA Poster Session Link](https://sites.google.com/tamu.edu/setcasa2017)
 
 # Presentation

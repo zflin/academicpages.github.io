@@ -8,8 +8,6 @@ date: 2017-11-20
 location: "College Station, Texas"
 ---
 
-# Background
-
 This is the presentation of a course project for STAT 605 (Statistical Computation)
 
 # Presentation

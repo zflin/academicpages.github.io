@@ -8,8 +8,6 @@ date: 2017-10-10
 location: "Houston, Texas"
 ---
 
-# Background
-
 [Conference Link](http://dsconference.rice.edu/)
 
 # Presentation
