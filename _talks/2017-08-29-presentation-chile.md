@@ -14,7 +14,7 @@ This is the presentation of final project for 2017 La Serena School for Data Sci
 
 [Download slide here](http://zflin.github.io/files/phyforest_final_chile.ipynb)
 
-Or read the notebook via [nbviewer](http://nbviewer.jupyter.org/url/zflin.github.io/files/phyforest_final_chile.ipynb)
+Or read the notebook via [nbviewer](http://nbviewer.jupyter.org/github/zflin/zflin.github.io/blob/master/files/phyforest_final_chile.ipynb)
 
 
 
