@@ -8,7 +8,9 @@ date: 2017-08-29
 location: "La Serena, Chile"
 ---
 
-This is the presentation of final project for 2017 La Serena School for Data Science
+This is the presentation of final project for 2017 La Serena School for Data Science.
+
+[Program link](http://www.aura-o.aura-astronomy.org/winter_school/content/2017-final-program)
 
 # Presentation
 
