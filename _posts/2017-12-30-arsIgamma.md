@@ -16,13 +16,13 @@ This package is implemented via Rcpp and it's super fast to do sampling.
 
 [Download R-package `arsIgamma_1.1.tar.gz'](http://zflin.github.io/files/arsIgamma_1.1.tar.gz)
 
-```{R}
+```R
 ## an example how to use the package
 
 library(arsIgamma)
 
-set.seed(20171230)
-N = 1000
+set.seed(7)
+N = 2000
 ss = 2 ## sum of square
 n = 10
 d2 = 1 ## square of d
@@ -49,5 +49,5 @@ hist(y0, 20, xlab="1000 samples", main="1/rgamma")
 par(mfrow=c(1,1))
 ```
 
-![](http://zflin.github.io/files/arsIgamma.pdf)
+![](http://zflin.github.io/files/arsIgamma.png)
 
