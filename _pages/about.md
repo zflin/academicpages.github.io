@@ -16,7 +16,7 @@ My interests in statistics:
 
 * Machine learning / data mining 
 
-* Big / fat / thin / tall / short / high-dimensional (... any adjective work you can think about) data analysis
+* Big / fat / thin / tall / short / high-dimensional (... any adjective word) data analysis
 
 * Gaussian processes
 
