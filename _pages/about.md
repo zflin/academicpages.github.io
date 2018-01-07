@@ -8,6 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+Welcome!
+
+I am a 3rd-year Ph.D. student in statistics in Texas A\&M University. My expected graduation will be in 2019. 
+
+My interests in statistics:
+
+* Machine learning / data mining 
+
+* Big and high-dimensional data analysis
+
+* Gaussian processes
+
+* Statistical (Frequentist + Bayesian) computation
+
+
 ![Bored by statistics](/images/stat_cartoon/bored_by_statistics.jpg)
 
 ![Placebo](/images/stat_cartoon/placebo.png)
