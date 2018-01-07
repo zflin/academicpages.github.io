@@ -16,12 +16,13 @@ My interests in statistics:
 
 * Machine learning / data mining 
 
-* Big and high-dimensional data analysis
+* Big / fat / thin / tall / short / high-dimensional (... any adjective work you can think about) data analysis
 
 * Gaussian processes
 
 * Statistical (Frequentist + Bayesian) computation
 
+***
 
 ![Bored by statistics](/images/stat_cartoon/bored_by_statistics.jpg)
 

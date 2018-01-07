@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Readings"
 permalink: /readings/
 author_profile: true
 redirect_from:
@@ -9,15 +8,26 @@ redirect_from:
 
 {% include base_path %}
 
-(A detailed list is coming)
 
-Books
-======
+Table of Contents
+=================
 
-## A Probability Path
+  * [Books](#books)
+    * [A Probability Path](#app)
+    * [Bayesian Data Analysis](#BDA3)
+    * [Deap Learning](#dl)
+    
+
+# Books
+
+---
+
+## A Probability Path <a name="app"></a>
 [Book Link](http://www.springer.com/us/book/9780817684082)
 
 * Author: Sidney I. Resnick
+
+* Other info: Springer, 1999
 
 * Year of reading: 2014
 
@@ -33,10 +43,12 @@ I choose to start with A Probability Path among the several books that Prof. Hua
 
 Note: My solution manual to this book is available upon request.
 
-## Bayesian Data Analysis, 3rd edition
+## Bayesian Data Analysis, 3rd edition <a name="BDA3"></a>
 [Book Link](http://www.stat.columbia.edu/~gelman/book/)
 
 * Author: Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari and Donald B. Rubin
+
+* Other info: 2013
 
 * Year of reading: 2016
 
@@ -58,7 +70,7 @@ Note: My solution manual to this book is available upon request.
 
 ## Numerical Analysis for Statistician
 
-## Deap Learning 
+## Deap Learning <a name="dl"></a>
 
 ## Statistical Models 
 
