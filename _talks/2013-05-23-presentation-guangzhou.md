@@ -5,7 +5,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2013-05-23-presentation-guangzhou
 venue: "M.S. thesis"
-date: 2017-08-29
+date: 2013-05-23
 location: "Guangzhou, China"
 ---
 
