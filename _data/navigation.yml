@@ -19,7 +19,7 @@ main:
     url: /readings/
     
   - title: "CV"
-    url: /cv/
+    url: https://zflin.github.io/files/CV.pdf
     
   - title: "Guide"
     url: /markdown/
