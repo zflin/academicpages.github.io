@@ -17,12 +17,11 @@ Table of Contents
     * [Bayesian Data Analysis](#BDA3)  
     * [Deap Learning](#dl)  
   * [Just Books](#books2)  
-  	* [Unaccountable](#unaccountable)
+    * [Unaccountable](#unaccountable)
     
+***
 
 # Statistics Books
-
----
 
 ## A Probability Path (1999) <a name="app"></a>
 
@@ -74,6 +73,8 @@ Note: My solution manual to this book is available upon request.
 ## Statistical Models 
 
 ## C++ Primer, 5th edition
+
+***
 
 # Just Books 
 
