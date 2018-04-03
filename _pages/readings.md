@@ -12,11 +12,11 @@ redirect_from:
 Table of Contents
 =================
 
-  * [Statistics Books](#books)
-    * [A Probability Path](#app)
-    * [Bayesian Data Analysis](#BDA3)
-    * [Deap Learning](#dl)
-  * [Just Books](#books2)
+  * [Statistics Books](#books)  
+    * [A Probability Path](#app)  
+    * [Bayesian Data Analysis](#BDA3)  
+    * [Deap Learning](#dl)  
+  * [Just Books](#books2)  
   	* [Unaccountable](#unaccountable)
     
 
