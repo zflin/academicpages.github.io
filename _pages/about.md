@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Zhenfeng Lin is currently a 3rd-year Ph.D. student in statistics in Texas A&M University.  
+Ph.D. candidate (May, 2019) in statistics in Texas A&M University.  
 
-My interests in statistics:
+Summary
 
-* Machine learning / data mining 
-* Big / fat / thin / tall / short / high-dimensional (... any adjective word) data analysis
-* Statistical (Frequentist + Bayesian) computation
+* Skills: Machine Learning; Big Data; Novelty/Outlier Detection; Deep Learning; Text Mining; Statistical (Frequentist + Bayesian) computation
+* Coding: Python (inc. Scikit-Learn, TensorFlow), R (inc. Rcpp, Shiny), C/C++, Git, SAS, SQL, Scala, Spark, Hadoop, MATLAB
 
 ***
 
